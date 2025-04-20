@@ -41,7 +41,6 @@ export default function ProfileComponent() {
                         </div>
                     </div>
                     <div className="profile-picture">
-                        <img src="/profile-pic-01.jpg" alt="Profile" />
                     </div>
                 </div>
 
